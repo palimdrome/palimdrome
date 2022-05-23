@@ -7,7 +7,18 @@
 - 🏆 2022 Goals: Collaborate with other developers and join a hackathon.
 - ⚡ Fun Fact: I usually go by Lim and when added to my last name becomes a palindrome, thus, my username 😉
 
-### Let's get in touch!
+## Tools and Technologies
+> 🌐 HTML | 
+> 🎨 CSS | 
+> 💻 JavaScript |
+> 📁 Git | 
+> 📐 Figma
+
+> 🐍 Python | 
+> 📱  Kotlin | 
+> ☕ Java | 
+
+## Connect with me
 
 <a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
 &nbsp;
@@ -21,17 +32,6 @@
 <a href="https://twitter.com/lim_ala_mil?t=cdArRbngv-k2rfj_W_JIQQ&s=09"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" /></a>
 &nbsp;
 &nbsp;
-
-## Tools and Technologies
-> 🌐 HTML | 
-> 🎨 CSS | 
-> 💻 JavaScript |
-> 📁 Git | 
-> 📐 Figma
-
-> 🐍 Python | 
-> 📱  Kotlin | 
-> ☕ Java | 
 
 <!--
 **palimdrome/palimdrome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
