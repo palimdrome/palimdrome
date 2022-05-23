@@ -9,7 +9,10 @@
 
 ### Let's get in touch!
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=dpndkdukp4uo&utm_content=nkwvnqo"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
 
 ## Tools and Technologies
 > 🌐 HTML | 
