@@ -8,21 +8,8 @@
 - ⚡ Fun Fact: I usually go by Lim and when added to my last name becomes a palindrome, thus, my username 😉
 
 ### Let's get in touch!
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
-[1.1]: https://www.flaticon.com/free-icon/linkedin_174857
-[2.1]: https://www.flaticon.com/free-icon/instagram_174855
-[3.1]: https://www.flaticon.com/free-icon/twitter_733579
-
-[1]: https://www.linkedin.com/in/limuelle-alamil/
-[2]: https://www.instagram.com/invites/contact/?i=dpndkdukp4uo&utm_content=nkwvnqo
-[3]: https://twitter.com/lim_ala_mil?t=cdArRbngv-k2rfj_W_JIQQ&s=09
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<a href=”https://www.linkedin.com/in/limuelle-alamil/"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/linkedin.svg" alt=”Limuelle-Alamil | LinkedIn” width=”21px”/></a>
 
 ## Tools and Technologies
 > 🌐 HTML | 
