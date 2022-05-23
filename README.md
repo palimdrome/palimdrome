@@ -7,8 +7,8 @@
 - 🏆 2022 Goals: Collaborate with other developers and join a hackathon.
 - ⚡ Fun Fact: I usually go by Lim and when added to my last name becomes a palindrome, thus, my username 😉
 
+
 ## Tools and Technologies
-<span><img height="32" width="32" color="#007ACC" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg" /></span>&nbsp;
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></span>&nbsp;
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></span>&nbsp;
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></span>&nbsp;
@@ -16,6 +16,7 @@
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></span>&nbsp;
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" /></span>&nbsp;
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></span>&nbsp;
+
 
 ## Connect with me
 
@@ -45,4 +46,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Tutorial I used: https://youtu.be/nMfPqeZjc2c
 -->
