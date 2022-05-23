@@ -7,8 +7,6 @@
 - 🏆 2022 Goals: Get an internship to learn and collaborate with others.
 - ⚡ Fun Fact: I usually go by Lim and when added to my last name becomes a palindrome, thus, my username 😉
 
-<br>
-
 ### Tools and Technologies
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></span>
 &nbsp;
@@ -34,8 +32,6 @@
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></span>
 &nbsp;
 &nbsp;
-
-<br>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
