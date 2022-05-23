@@ -9,10 +9,10 @@
 
 ### Let's get in touch!
 
-<a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/invites/contact/?i=dpndkdukp4uo&utm_content=nkwvnqo"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
+<a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" margin="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=dpndkdukp4uo&utm_content=nkwvnqo"><img height="32" width="32" margin="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
+<a href="https://www.facebook.com/profile.php?id=100007186186646"><img height="32" width="32" margin="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" /></a>
+<a href="https://twitter.com/lim_ala_mil?t=cdArRbngv-k2rfj_W_JIQQ&s=09"><img height="32" width="32" margin="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" /></a>
 
 ## Tools and Technologies
 > 🌐 HTML | 
