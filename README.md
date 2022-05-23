@@ -21,7 +21,7 @@
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></span>
 &nbsp;
 &nbsp;
-<span><img height="32" width="32" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" /></span>
+<span><img height="32" width="32" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" /></span>
 &nbsp;
 &nbsp;
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></span>
