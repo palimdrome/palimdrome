@@ -12,15 +12,15 @@
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][6.1]][6]
+[![alt text][3.1]][3]
 
-[1.1]: https://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[6.1]: https://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: https://www.flaticon.com/free-icon/linkedin_174857
+[2.1]: https://www.flaticon.com/free-icon/instagram_174855
+[3.1]: https://www.flaticon.com/free-icon/twitter_733579
 
-[1]: 
-[2]: https://www.facebook.com/profile.php?id=100007186186646
-[6]: https://github.com/palimdrome
+[1]: https://www.linkedin.com/in/limuelle-alamil/
+[2]: https://www.instagram.com/invites/contact/?i=dpndkdukp4uo&utm_content=nkwvnqo
+[3]: https://twitter.com/lim_ala_mil?t=cdArRbngv-k2rfj_W_JIQQ&s=09
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
