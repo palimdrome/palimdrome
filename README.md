@@ -8,10 +8,10 @@
 - ⚡ Fun Fact: I usually go by Lim and when added to my last name becomes a palindrome, thus, my username 😉
 
 ### Let's get in touch!
-<a href=”https://www.linkedin.com/in/limuelle-alamil/"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/linkedin.svg" alt=”Limuelle-Alamil | LinkedIn” width=”21px”/></a>
-<a href=”https://twitter.com/lim_ala_mil?t=cdArRbngv-k2rfj_W_JIQQ&s=09"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/twitter.svg" alt=”Limuelle-Alamil | Twitter” width=”21px”/></a>
-<a href=”https://www.instagram.com/invites/contact/?i=dpndkdukp4uo&utm_content=nkwvnqo"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/instagram.svg" alt=”Limuelle-Alamil | Instagram” width=”21px”/></a>
-<a href=”https://www.facebook.com/profile.php?id=100007186186646"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/facebook.svg" alt=”Limuelle-Alamil | Facebook” width=”21px”/></a>
+[<a href=”https://www.linkedin.com/in/limuelle-alamil/"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/linkedin.svg" alt=”Limuelle-Alamil | LinkedIn” width=”21px”/></a>]
+[<a href=”https://twitter.com/lim_ala_mil?t=cdArRbngv-k2rfj_W_JIQQ&s=09"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/twitter.svg" alt=”Limuelle-Alamil | Twitter” width=”21px”/></a>]
+[<a href=”https://www.instagram.com/invites/contact/?i=dpndkdukp4uo&utm_content=nkwvnqo"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/instagram.svg" alt=”Limuelle-Alamil | Instagram” width=”21px”/></a>]
+[<a href=”https://www.facebook.com/profile.php?id=100007186186646"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/facebook.svg" alt=”Limuelle-Alamil | Facebook” width=”21px”/></a>]
 
 ## Tools and Technologies
 > 🌐 HTML | 
