@@ -1,12 +1,24 @@
-### Hello world 👋
+### Hello world 👋 I am Limuelle!
 
-I am Limuelle from the Philippines, and I am currently studying computer science at the University of the Philippines Visayas. Computer science is a broad field but I am mostly interested on web and mobile development and currently learning different frameworks and technologies to widen my skillset. Aside from coding, I also enjoy wireframing, learning UI/UX, and improving my overall design skills.
+- 🏫 I'm currently studying computer science at the University of the Philippines Visayas.
+- 🌐 I'm interested on web and mobile development. 
+- 💻 I'm currently learning different frameworks and technologies to widen my skillset.
+- 🎨 I also enjoy wireframing, learning UI/UX, and improving my overall design skills.
+- 🏆 2022 Goals: Collaborate with other developers and join a hackathon.
+- ⚡ Fun Fact: I usually go by Lim and when added to my last name becomes a palindrome, thus, my username 😉
+
+### Let's get in touch!
+<a href=”https://www.linkedin.com/in/limuelle-alamil/"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/linkedin.svg" alt=”Limuelle-Alamil | LinkedIn” width=”21px”/></a>
+<a href=”https://twitter.com/lim_ala_mil?t=cdArRbngv-k2rfj_W_JIQQ&s=09"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/twitter.svg" alt=”Limuelle-Alamil | Twitter” width=”21px”/></a>
+<a href=”https://www.instagram.com/invites/contact/?i=dpndkdukp4uo&utm_content=nkwvnqo"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/instagram.svg" alt=”Limuelle-Alamil | Instagram” width=”21px”/></a>
+<a href=”https://www.facebook.com/profile.php?id=100007186186646"><img align=”left” src=”https://raw.githubusercontent.com/palimdrome/palimdrome/main/images/facebook.svg" alt=”Limuelle-Alamil | Facebook” width=”21px”/></a>
 
 ## Tools and Technologies
 > 🌐 HTML | 
 > 🎨 CSS | 
 > 💻 JavaScript |
-> 📁 Git
+> 📁 Git | 
+> 📐 Figma
 
 > 🐍 Python | 
 > 📱  Kotlin | 
