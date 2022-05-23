@@ -9,7 +9,9 @@
 
 ### Let's get in touch!
 
+<html>
 <a href=”https://www.linkedin.com/in/limuelle-alamil/"><img align=”left” src=”https://github.com/palimdrome/palimdrome/blob/main/images/linkedin.svg" alt=”Limuelle-Alamil | LinkedIn” width=”21px”/></a>
+</html>
 
 ## Tools and Technologies
 > 🌐 HTML | 
