@@ -8,7 +8,6 @@
 - ⚡ Fun Fact: I usually go by Lim and when added to my last name becomes a palindrome, thus, my username 😉
 
 <br>
-<br>
 
 ### Tools and Technologies
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></span>
@@ -36,7 +35,6 @@
 &nbsp;
 &nbsp;
 
-<br>
 <br>
 
 ### Connect with me
