@@ -5,7 +5,7 @@
 - 💻 I'm currently learning different frameworks and technologies to widen my skillset.
 - 🎨 I also enjoy wireframing, learning UI/UX, and improving my overall design skills.
 - 🏆 2022 Goals: Get an internship to learn and collaborate with others.
-- ⚡ Fun Fact: I usually go by Lim and when added to my last name becomes a palindrome, thus, my username 😉
+- ⚡ Fun Fact: I usually go by Lim and when it is added to my last name, it becomes a palindrome, thus, my username 😉
 
 ## Tools and Technologies
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></span>
