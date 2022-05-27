@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Tutorial I used: https://youtu.be/nMfPqeZjc2c
+Tutorial I used: https://youtu.be/n6d4KHSKqGk
 -->
