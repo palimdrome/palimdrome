@@ -4,7 +4,7 @@
 - 🌐 I'm interested on web and mobile development. 
 - 💻 I'm currently learning different frameworks and technologies to widen my skillset.
 - 🎨 I also enjoy wireframing, learning UI/UX, and improving my overall design skills.
-- 🏆 2022 Goals: Get an internship to learn and collaborate with others.
+<!-- - 🏆 2022 Goals: Get an internship to learn and collaborate with others. -->
 - ⚡ Fun Fact: I usually go by Lim and when it is added to my last name, it becomes a palindrome, thus, my username 😉
 
 ## Tools and Technologies
