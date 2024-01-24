@@ -32,6 +32,9 @@
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></span>
 &nbsp;
 &nbsp;
+<span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" /></span>
+&nbsp;
+&nbsp;
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
