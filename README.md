@@ -1,10 +1,11 @@
 ### Hello world 👋 I am Limuelle!
 
-- 🏫 I'm currently studying computer science at the University of the Philippines Visayas.
-- 🌐 I'm interested on web and mobile development. 
+- 🏫 I'm a Computer Science graduate at the University of the Philippines Visayas.
+- 🌐 I'm interested on software development. 
 - 💻 I'm currently learning different frameworks and technologies to widen my skillset.
-- 🎨 I also enjoy wireframing, learning UI/UX, and improving my overall design skills.<!-- - 🏆 2022 Goals: Get an internship to learn and collaborate with others. -->
-- ⚡ Fun Fact: I usually go by Lim and when it is added to my last name, it becomes a palindrome, thus, my username 😉
+- 🎨 I also enjoy wireframing, learning UI/UX, and improving my overall design skills.
+- 🏆 2024 Goals: Find a software development job to earn experience.
+<!-- - ⚡ Fun Fact: I usually go by Lim and when it is added to my last name, it becomes a palindrome, thus, my username 😉 -->
 
 ## Tools and Technologies
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></span>
