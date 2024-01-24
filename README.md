@@ -11,6 +11,9 @@
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></span>
 &nbsp;
 &nbsp;
+<span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></span>
+&nbsp;
+&nbsp;
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></span>
 &nbsp;
 &nbsp;
@@ -20,10 +23,16 @@
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></span>
 &nbsp;
 &nbsp;
+<span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" /></span>
+&nbsp;
+&nbsp;
+<span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" /></span>
+&nbsp;
+&nbsp;
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></span>
 &nbsp;
 &nbsp;
-<span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></span>
+<span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" /></span>
 &nbsp;
 &nbsp;
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" /></span>
@@ -32,10 +41,7 @@
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></span>
 &nbsp;
 &nbsp;
-<span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" /></span>
-&nbsp;
-&nbsp;
-<span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" /></span>
+<span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" /></span>
 &nbsp;
 &nbsp;
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg" /></span>
