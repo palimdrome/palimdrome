@@ -4,6 +4,7 @@
 - 🌐 I'm interested on software development. 
 - 💻 I'm currently learning different frameworks and technologies to widen my skillset.
 - 🎨 I also enjoy wireframing, learning UI/UX, and improving my overall design skills.
+- 🎮 I also play RPGs like Genshin Impact and Honkai: Star Rail
 - 🏆 2024 Goals: Find a software development job to earn experience.
 <!-- - ⚡ Fun Fact: I usually go by Lim and when it is added to my last name, it becomes a palindrome, thus, my username 😉 -->
 
