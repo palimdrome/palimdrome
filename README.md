@@ -38,6 +38,9 @@
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" /></span>
 &nbsp;
 &nbsp;
+<span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg" /></span>
+&nbsp;
+&nbsp;
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
