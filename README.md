@@ -1,11 +1,17 @@
 ### Hello world!
-# I am Limuelle.
-### An aspiring frontend developer.
+## I am Limuelle.
+<span> A passionate and meticulous fresh graduate with great interest on frontend development. Seeking for a job to share his skills and knowledge to a supportive team, while welcoming guidance and opportunities for professional growth.</span>
 
 ## Send me a message...
-✉️ - ldc.alamil@gmail.com
-📞 - +63 927 028 6718
-🏠 - Brgy. Intampilan, Panitan, Capiz, Philippines
+<span>✉️ - ldc.alamil@gmail.com</span>
+&nbsp;
+&nbsp;
+<span>📞 - +63 927 028 6718</span>
+&nbsp;
+&nbsp;
+<span>🏠 - Brgy. Intampilan, Panitan, Capiz, Philippines</span>
+&nbsp;
+&nbsp;
 
 ## ...or hit me in the DM
 <a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" /></a>
@@ -46,56 +52,44 @@
 &nbsp;
 
 ### I am increasing my proficiency on...
-<!-- PHP -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- MySQL -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- Python -->
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></span>
 &nbsp;
 &nbsp;
 
 ### I design with...
-<!-- Figma -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- Canva -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" /></span>
 &nbsp;
 &nbsp;
 <span><a href="#">Visit my Facebook page to see some of the pubs I've designed</a></span>
 
 ### I have used in the past...
-<!-- Android Studio -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- Kotlin -->
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" /></span>
 &nbsp;
 &nbsp;
-<!-- Firebase -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- C -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- Java -->
 <span><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></span>
 &nbsp;
 &nbsp;
-<!-- Jupyter -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- LaTex -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg" /></span>
 &nbsp;
 &nbsp;
@@ -104,7 +98,11 @@
 ### BS in Computer Science
 #### University of the Philippines Visayas
 <span>2019 - 2023</span>
+&nbsp;
+&nbsp;
 <span>DOST-SEI Scholar</span>
+&nbsp;
+&nbsp;
 
 ## 👔 Experience
 ### Fullstack Development Intern
