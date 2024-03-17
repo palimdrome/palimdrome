@@ -4,14 +4,8 @@
 
 ## Send me a message...
 <span>✉️ - ldc.alamil@gmail.com</span>
-&nbsp;
-&nbsp;
 <span>📞 - +63 927 028 6718</span>
-&nbsp;
-&nbsp;
 <span>🏠 - Brgy. Intampilan, Panitan, Capiz, Philippines</span>
-&nbsp;
-&nbsp;
 
 ## ...or hit me in the DM
 <a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" /></a>
@@ -67,8 +61,6 @@
 &nbsp;
 &nbsp;
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" /></span>
-&nbsp;
-&nbsp;
 <span><a href="#">Visit my Facebook page to see some of the pubs I've designed</a></span>
 
 ### I have used in the past...
@@ -107,6 +99,9 @@
 ## 👔 Experience
 ### Fullstack Development Intern
 #### DevKinetics, Manila, Philippines
+
+## 🎨 Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=windborne-gaming)](https://github.com/palimdrome/windborne-gaming)
 
 
 <!--
