@@ -104,13 +104,13 @@
 
 <hr>
 
-<h2>🎨 Projects</h2>
-<h3>Frontend Development Projects</h3>
+## 🎨 Projects
+### Frontend Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=windborne-gaming)](https://github.com/palimdrome/windborne-gaming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=limicons)](https://github.com/palimdrome/limicons)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=sersi-landing-page)](https://github.com/palimdrome/sersi-landing-page)
-<h3>Backend Development Projects</h3>
+### Backend Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CORA-Initiative&repo=cora)](https://github.com/CORA-Initiative/cora)
-<h3>Non Web Development Projects</h3>
+### Non Web Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=waste-classifier)](https://github.com/palimdrome/waste-classifier)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=java-spell-casting-console-game)](https://github.com/palimdrome/java-spell-casting-console-game)
