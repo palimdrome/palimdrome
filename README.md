@@ -1,16 +1,16 @@
-#### Hello world! 👋
-## I am Limuelle.
+<h4>Hello world! 👋</h4>
+<h1>I am Limuelle.</h1>
 <span> A passionate and meticulous fresh graduate with great interest on frontend development. Seeking for a job to share his skills and knowledge to a supportive team, while welcoming guidance and opportunities for professional growth.</span>
 
 <hr>
 
-## Contacts
-### Send me a message.
-<span>✉️ ldc.alamil@gmail.com</span><br>
-<span>📞 +63 927 028 6718</span><br>
-<span>🏠 Brgy. Intampilan, Panitan, Capiz, Philippines</span><br>
+<h2>Contacts</h2>
+<h3>Send me a message.</h3>
+<span>✉️  ldc.alamil@gmail.com</span><br>
+<span>📞  +63 927 028 6718</span><br>
+<span>🏠  Brgy. Intampilan, Panitan, Capiz, Philippines</span><br>
 
-### Hit me in the DM.
+<h3>Hit me in the DM.</h3>
 <a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" /></a>
 &nbsp;
 &nbsp;
@@ -21,8 +21,8 @@
 
 <hr>
 
-## ⚙️ Tools and Technologies
-### I am actively using...
+<h2>⚙️ Tools and Technologies</h2>
+<h3>I am actively using...</h3>
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></span>
 &nbsp;
 &nbsp;
@@ -48,7 +48,7 @@
 &nbsp;
 &nbsp;
 
-### I am increasing my proficiency on...
+<h3>I am increasing my proficiency on...</h3>
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" /></span>
 &nbsp;
 &nbsp;
@@ -59,13 +59,13 @@
 &nbsp;
 &nbsp;
 
-### I design with...
+<h3>I design with...</h3>
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" /></span>
 &nbsp;
 &nbsp;
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" /></span>
 
-### I have used in the past...
+<h3>I have used in the past...</h3>
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" /></span>
 &nbsp;
 &nbsp;
@@ -90,27 +90,27 @@
 
 <hr>
 
-## 🎓 Education
-### BS in Computer Science
+<h2>🎓 Education</h2>
+<h3>BS in Computer Science</h3>
 <div>University of the Philippines Visayas</div>
 <div>2019 - 2023</div>
 <div>DOST-SEI Scholar</div>
 
 <hr>
 
-## 👔 Experience
-### Fullstack Development Intern
+<h2>👔 Experience</h2>
+<h3>Fullstack Development Intern</h3>
 <div>DevKinetics, Manila, Philippines</div>
 
 <hr>
 
-## 🎨 Projects
-### Frontend Development Projects
+<h2>🎨 Projects</h2>
+<h3>Frontend Development Projects</h3>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=windborne-gaming)](https://github.com/palimdrome/windborne-gaming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=limicons)](https://github.com/palimdrome/limicons)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=sersi-landing-page)](https://github.com/palimdrome/sersi-landing-page)
-### Backend Development Projects
+<h3>Backend Development Projects</h3>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CORA-Initiative&repo=cora)](https://github.com/CORA-Initiative/cora)
-### Non Web Development Projects
+<h3>Non Web Development Projects</h3>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=waste-classifier)](https://github.com/palimdrome/waste-classifier)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=java-spell-casting-console-game)](https://github.com/palimdrome/java-spell-casting-console-game)
