@@ -106,9 +106,9 @@
 
 ## 🎨 Projects
 ### Frontend Development Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=windborne-gaming)](https://github.com/palimdrome/windborne-gaming)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=limicons)](https://github.com/palimdrome/limicons)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=sersi-landing-page)](https://github.com/palimdrome/sersi-landing-page)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=windborne-gaming "https://palimdrome.github.io/windborne-gaming/")](https://github.com/palimdrome/windborne-gaming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=limicons "https://palimdrome.github.io/limicons/")](https://github.com/palimdrome/limicons)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=sersi-landing-page "https://palimdrome.github.io/sersi-landing-page/")](https://github.com/palimdrome/sersi-landing-page)
 ### Backend Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CORA-Initiative&repo=cora)](https://github.com/CORA-Initiative/cora)
 ### Non Web Development Projects
