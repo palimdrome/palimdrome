@@ -1,9 +1,9 @@
-# 🦝 Limuelle Alamil.
+# 🦝 Limuelle Alamil
 A passionate and meticulous fresh graduate with great interest on frontend development. Seeking for a job to share his skills and knowledge to a supportive team, while welcoming guidance and opportunities for professional growth.
 
 <hr>
 
-## Contacts
+## 📞 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ldc.alamil@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limuelle-alamil/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007186186646)
@@ -52,20 +52,6 @@ A passionate and meticulous fresh graduate with great interest on frontend devel
 
 <hr>
 
-## 🎓 Education
-### BS in Computer Science
-<div>University of the Philippines Visayas</div>
-<div>2019 - 2023</div>
-<div>DOST-SEI Scholar</div>
-
-## 👔 Experience
-### Fullstack Development Intern
-<div>DevKinetics, Manila, Philippines</div>
-</div>
-</div>
-
-<hr>
-
 ## 🎨 Projects
 ### Frontend Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=windborne-gaming)](https://palimdrome.github.io/windborne-gaming/)
@@ -76,3 +62,22 @@ A passionate and meticulous fresh graduate with great interest on frontend devel
 ### Non Web Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=waste-classifier)](https://github.com/palimdrome/waste-classifier)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=java-spell-casting-console-game)](https://github.com/palimdrome/java-spell-casting-console-game)
+
+## 👔 More about me
+🎓 I studied BS Computer Science at the University of the Philippines Visayas. <br>
+🏢 I had my first work experience at DevKinetics, Manila, Philippines as a fullstack development intern. It was a overwhelming at first but I learned a lot in the 3 months that I stayed there. <br>
+🎮 I'm not really a gamer but I'm a gacha addict. I'm currently hooked playing Honkai: Star Rail and Genshin Impact. If you wanna add me as friend, you know how to message me 😉 <br>
+
+<img align="center" height="300" src="hsr-gif.gif">
+
+<!--
+## 🎓 Education
+### BS in Computer Science
+<div>University of the Philippines Visayas</div>
+<div>2019 - 2023</div>
+<div>DOST-SEI Scholar</div>
+
+## 👔 Experience
+### Fullstack Development Intern
+<div>DevKinetics, Manila, Philippines</div>
+-->
