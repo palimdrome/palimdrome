@@ -3,9 +3,9 @@
 <span> A passionate and meticulous fresh graduate with great interest on frontend development. Seeking for a job to share his skills and knowledge to a supportive team, while welcoming guidance and opportunities for professional growth.</span>
 
 ## Send me a message...
-<span>✉️ - ldc.alamil@gmail.com</span>
-<span>📞 - +63 927 028 6718</span>
-<span>🏠 - Brgy. Intampilan, Panitan, Capiz, Philippines</span>
+<div>✉️ - ldc.alamil@gmail.com</div>
+<div>📞 - +63 927 028 6718</div>
+<div>🏠 - Brgy. Intampilan, Panitan, Capiz, Philippines</div>
 
 ## ...or hit me in the DM
 <a href="https://www.linkedin.com/in/limuelle-alamil/"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" /></a>
@@ -61,7 +61,7 @@
 &nbsp;
 &nbsp;
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" /></span>
-<span><a href="#">Visit my Facebook page to see some of the pubs I've designed</a></span>
+<div><a href="#">Visit my Facebook page to see some of the pubs I've designed</a></div>
 
 ### I have used in the past...
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" /></span>
@@ -101,7 +101,14 @@
 #### DevKinetics, Manila, Philippines
 
 ## 🎨 Projects
+### Web Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=windborne-gaming)](https://github.com/palimdrome/windborne-gaming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=limicons)](https://github.com/palimdrome/limicons)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=sersi-landing-page)](https://github.com/palimdrome/sersi-landing-page)
+### Non Web Development Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CORA-Initiative&repo=cora)](https://github.com/CORA-Initiative/cora)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=waste-classifier)](https://github.com/palimdrome/waste-classifier)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=java-spell-casting-console-game)](https://github.com/palimdrome/java-spell-casting-console-game)
 
 
 <!--
