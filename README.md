@@ -68,7 +68,9 @@ A passionate and meticulous fresh graduate with great interest on frontend devel
 🏢 I had my first work experience at DevKinetics, Manila, Philippines as a fullstack development intern. It was a overwhelming at first but I learned a lot in the 3 months that I stayed there. <br>
 🎮 I'm not really a gamer but I'm a gacha addict. I'm currently hooked playing Honkai: Star Rail and Genshin Impact. If you wanna add me as friend, you know how to message me 😉 <br>
 
-<img align="center" height="300" src="hsr-gif.gif">
+<p align="center">
+  <img height="300" src="hsr-gif.gif">
+</p>
 
 <!--
 ## 🎓 Education
