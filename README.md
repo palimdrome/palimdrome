@@ -20,35 +20,27 @@
 
 ## ⚙️ Tools and Technologies
 ### I am actively using...
-<!-- HMTL5 -->
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- CSS3 -->
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- JavaScript -->
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- ReactJS -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- NextJS -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- TailwindCSS -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- Git -->
 <span><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></span>
 &nbsp;
 &nbsp;
-<!-- VS Code -->
 <span><img height="32" width="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" /></span>
 &nbsp;
 &nbsp;
