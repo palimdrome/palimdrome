@@ -62,6 +62,7 @@ A passionate and meticulous fresh graduate with great interest on frontend devel
 ### Non Web Development Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=waste-classifier)](https://github.com/palimdrome/waste-classifier)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=palimdrome&repo=java-spell-casting-console-game)](https://github.com/palimdrome/java-spell-casting-console-game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eugocode&repo=SINCONext)](https://github.com/Eugocode/SINCONext)
 
 ## 👔 More about me
 🎓 I studied BS Computer Science at the University of the Philippines Visayas. <br>
