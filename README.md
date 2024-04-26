@@ -1,4 +1,4 @@
-# 🦝 Limuelle Alamil
+# 🐧 Limuelle Alamil
 A passionate and meticulous fresh graduate with great interest on frontend development. Seeking for a job to share his skills and knowledge to a supportive team, while welcoming guidance and opportunities for professional growth.
 
 <hr>
